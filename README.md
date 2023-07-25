@@ -9,3 +9,7 @@ Brief description of the project (task)
 #768 px-responsive
 ![Screenshot (651)](https://github.com/keerthana0109v/TechinaMinute/assets/140523450/9c0a280b-36b0-45f7-8fbd-6ef24145333c)
 #600 px -responsive
+![Screenshot (652)](https://github.com/keerthana0109v/TechinaMinute/assets/140523450/9fe09266-edab-408c-8a85-1ea20e4497b4)
+
+#1024Px -responsive
+![Screenshot (653)](https://github.com/keerthana0109v/TechinaMinute/assets/140523450/d217d6b0-11c3-4dbc-8080-0e25b50ff06a)
