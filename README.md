@@ -5,3 +5,4 @@ Brief description of the project (task)
 # The project aims to develop a responsive static website.
 # I developed a kind of e-Learning website named "Tech in a Minute" that contains tech concepts briefly and simply explained.
 # The proposed website is completely responsive at screen sizes - 600px,768px and 1024px.
+![landingpage](https://github.com/keerthana0109v/TechinaMinute/assets/140523450/f089522b-c244-493c-8f64-a4c6d9f5db26)
