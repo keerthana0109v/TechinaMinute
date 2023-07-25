@@ -1,0 +1,2 @@
+# TechinaMinute
+Responsive Static Website
